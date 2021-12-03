@@ -1,0 +1,5 @@
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*, "My Games"\*
+author = Astrum
+version = 0.6.1
+displayName = [c/424242:Afterwards]
+homepage = https://discord.gg/yPeaj3AnzZ

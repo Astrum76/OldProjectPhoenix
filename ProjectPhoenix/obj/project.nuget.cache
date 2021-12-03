@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bKdPNRgweGDT/8g10Aa/8KV87wdiKaoFPq/+LozhkDY1lJdl0zU01Pq1UJdIzFAehKxXJKW1HUstYGEaOZLx+Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\23JFurniss-Roe\\source\\repos\\steamapps\\common\\tModLoader\\My Games\\Terraria\\ModLoader\\Mod Sources\\ProjectPhoenix\\ProjectPhoenix.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\23JFurniss-Roe\\.nuget\\packages\\tmodloader.codeassist\\0.1.3\\tmodloader.codeassist.0.1.3.nupkg.sha512"
+  ],
+  "logs": []
+}
